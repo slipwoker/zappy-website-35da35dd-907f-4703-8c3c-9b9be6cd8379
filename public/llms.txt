@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Discover fashion freedom at Bill Me, your inclusive clothing store for all genders. Shop curated collections of apparel, shoes, accessories, and lifestyle essentials in one welcoming space.
+
+### About
+https://example.com/about
+Bill Me redefines retail with an inclusive shopping experience for women, men, and transgender individuals. Learn how we&#39;re building a welcoming space for everyone to express themselves.
+
+### Departments
+https://example.com/departments
+Browse clothing, shoes, accessories, intimate wear, makeup, wellness, and more at Bill Me. Our gender neutral fashion and accessories store offers everything you need under one roof.
+
+### Contact
+https://example.com/contact
+Have questions about our inclusive clothing store for all genders? Contact Bill Me today and experience personalized service that celebrates who you are. We&#39;re here to help you shine.
+
+### Products
+https://example.com/products
+Our Products - Bill Me
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - Bill Me
+
+### Category
+https://example.com/category/:slug
+Products - Bill Me
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
